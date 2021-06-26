@@ -1,9 +1,8 @@
 pytest
 seaborn
 Cython
-mpi4py
 nilearn>=0.7
-tvb-data==2.0
+tvb-data
 tvb-library
 mne
 moviepy
