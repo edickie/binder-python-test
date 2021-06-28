@@ -34,3 +34,8 @@ but you also get a snapshot of your environment.
 
 In this example we include the library `seaborn` which will be installed in
 the environment, and our notebook uses it to plot a figure.
+
+## click link below to open environment with the kcni-school-repo inside
+
+https://mybinder.org/v2/gh/edickie/binder-python-test/HEAD?urlpath=git-pull?repo=https:github.com/edickie/kcni-school-lessons
+
